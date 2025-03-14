@@ -1,0 +1,16 @@
+1111|A1|11:00|13:00|ponedeljak,petak|Sonic|300
+1112|B2|13:30|15:00|ponedeljak,utorak|JolovFilm|200
+1113|A1|16:00|19:00|sreda,petak,subota,nedelja|Openhajmer|400
+1114|B2|12:00|14:50|cetvrtak,subota|Hunger games|350
+1115|B2|13:00|14:30|nedelja|JolovFilm|200
+1116|C3|19:00|21:00|ponedeljak,utorak|Zivot je lep|300
+1117|C3|15:00|19:00|sreda,cetvrtak|Kum|400
+1118|D4|12:00|13:40|ponedeljak,sreda,petak|Miris zene|350
+1119|B2|13:00|16:00|sreda|Zivot je lep|300
+1120|D4|20:00|22:50|utorak,cetvrtak|Hunger games|350
+1121|D4|15:00|17:00|utorak,sreda|Sonic|300
+1122|C3|10:00|13:00|ponedeljak,utorak,petak,subota|Openhajmer (5DX)|3000
+1123|x|x|x|x|x|x
+1124|x|x|x|x|x|x
+1125|A1|14:00|16:00|ponedeljak,utorak,nedelja|Prica o igrackama|500
+1126|B2|06:00|08:30|ponedeljak,nedelja|Forest Gamp|250

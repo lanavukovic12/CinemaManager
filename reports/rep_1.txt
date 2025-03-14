@@ -1,0 +1,12 @@
+5|Nikola Ribic|Nidzo|1111AB|4 H|08.02.2024.|1
+7|Sofija Maksimovic|sofke|1113AC|10 A|08.02.2024.|1
+14|Maja Majic|None|1112AM|1 A|08.02.2024.|1
+18|Sofija Maksimovic|sofke|1117AF|1 A|08.02.2024.|1
+19|Laki Laki|Laki|1117AF|1 B|08.02.2024.|1
+22|Marko Markovic|None|1113AT|1 A|08.02.2024.|1
+23|Sofija Maksimovic|sofke|1113AT|2 A|08.02.2024.|1
+24|Sofija Maksimovic|sofke|1113AT|3 A|08.02.2024.|1
+25|Aca M|None|1113AT|5 A|08.02.2024.|1
+26|Sofija Maksimovic|sofke|1113AT|1 C|08.02.2024.|1
+33|Sofija Maksimovic|sofke|1115AF|1 A|08.02.2024.|1
+34|Sofija Maksimovic|sofke|1112AC|1 D|08.02.2024.|1

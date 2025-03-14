@@ -1,0 +1,11 @@
+Hunger games|Distopija,Akcija,Triler|170|Djole|Jenifer Lawrence,Mark Motton|Amerika|2011
+JolovFilm|Komedija|90|Jole Markovic|Jole Markovic|Srbija|2023
+Sonic|Komedija,Akcija|120|Marko Zoric|Jole Markovic|Engleska|2020
+Openhajmer|Drama,Psiholoski|180|Kristofer Nolan|Kilijan Marfi|Amerika|2023
+Kum|Drama,Psiholoski|240|Albert Rudi|Al Pacino|Amerika|1972
+Miris zene|Drama,Psiholoski,Triler|100|Martin Brest|Al Pacino|Amerika|1992
+Forest Gamp|Ljubavni,Komedija|150|Robert Zemeckis|Tom Henks|Amerika|1994
+Zivot je lep|Komedija,Ratni|120|Roberto Benigni|Roberto Benigni|Italija|1997
+Prica o igrackama|Komedija,Animirani|120|Dzon Leser|Tom Henks|Amerika|1995
+Djurin film|Akcija|100|Djuro|Djuro Djuric|BiH|2000
+Openhajmer (5DX)|Akcija,Psiholoski|180|Kristofer Nolan|Kilijan Marfi|Amerika|2023

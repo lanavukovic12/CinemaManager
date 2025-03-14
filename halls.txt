@@ -1,0 +1,4 @@
+A1|glavna|10|A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,R,S,T
+B2|leva|5|A,B,C,D,E,F,G
+C3|mala|5|A,B,C,D,E
+D4|4DX|6|A,B,C,D,E,F
